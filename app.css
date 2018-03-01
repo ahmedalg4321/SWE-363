@@ -1,0 +1,167 @@
+
+#header {
+    background-color:rgb(253, 253, 234);
+    position: fixed;
+    top :0px;
+    right: 0px;
+    height: 160px;
+    width: 100%;
+}
+#header1 {
+    
+    height: 120px;
+    width: 400px;
+    text-align: right;
+    position: fixed;
+    left: 320px;
+    top :15px;
+    line-height: 0.5;
+}
+#header2 {
+    
+    height: 120px;
+    width: 400px;
+    text-align: left;
+    position: fixed;
+    top :15px;
+    left: 728px;
+    line-height: 0.5;
+    
+}
+#img1{
+    
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    top :10px;
+    left: 10px;
+
+}
+#img2{
+    
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    top :10px;
+    right: 10px;
+
+}
+#rcorners2 {
+    background-color: #15f86c;
+    position: fixed;
+    top :100px;
+    left: 10px;
+    border-radius: 8px;
+    border: 2px solid rgb(76, 121, 15);
+    padding: 4px; 
+    width: 98%;
+    height: 20px; 
+    font-size: 130%; 
+    text-align: center; 
+}
+#footer {
+    background-color:#F2F5A9;
+    position: fixed;
+    bottom :0px;
+    right: 0px;
+    height: 80px;
+    width: 100%;
+}
+#footer1{
+height: 40px;
+    width: 50px;
+    text-align: right;
+    position: fixed;
+    left: 0px;
+    bottom :20px;
+    line-height: 0.5;
+    color : blue;
+    font-size:80%;
+}
+#footer2{
+    height: 60px;
+        width: 150px;
+        text-align: left;
+        position: fixed;
+        left: 250px;
+        bottom :0px;
+        line-height: 0.5;
+        font-size:80%;
+        color : rgb(105, 11, 11);
+    }
+    #footer3{
+        height: 65px;
+            width: 200px;
+            text-align: right;
+            position: fixed;
+            left: 500px;
+            bottom :0px;
+            line-height: 1.5;
+            font-size:80%;
+            color : rgb(105, 11, 11);
+        }#footer4{
+            height: 40px;
+                width: 250px;
+                text-align: right;
+                position: fixed;
+                left: 1100px;
+                bottom :0px;
+                line-height: 0.5;
+                color : blue;
+                font-size:80%;
+            }
+            #plan{
+                position: fixed;
+                left: 0px;
+                bottom :70px;
+                top:160px;
+                right:0px;
+
+            }
+ #syllabus{
+    position: fixed;
+    left: 0px;
+    bottom :80px;
+    top:160px;
+    right:0px;
+    text-align: center;
+    overflow-y: scroll; 
+   
+        
+
+ }
+ table, th, td {
+    border: 1px solid black;
+    
+}
+#width{
+    width:75%;
+}
+
+th{
+    text-align: center;  
+}
+td{
+    text-align: left;  
+}
+#major{
+    font-size:150% ;
+    color: blue ;
+    text-align: center;
+    background-color:rgba(191, 192, 156, 0.349);
+    
+}
+#major2{
+    font-size:150% ;
+    color:red ;
+    text-align: center;
+    background-color:rgba(191, 192, 156, 0.349);
+    
+}
+#final{
+    font-size:150% ;
+    color: brown ;
+    text-align: center;
+    background-color:rgba(191, 192, 156, 0.349);
+    
+}
